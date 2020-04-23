@@ -1,0 +1,15 @@
+{
+  "description": "Subject 2 wears Subject 4's shirt",
+  "duration": "00:02:43",
+  "videoId": [
+    "[00949]"
+  ],
+  "date": "2014-07-01T16:44:17.000Z",
+  "folderName": "2014/07/01",
+  "fileName": "16.44.17.json",
+  "subjectFileName": "2014.07.01-16.44.17.json",
+  "subjects": [
+    "2",
+    "4"
+  ]
+}
