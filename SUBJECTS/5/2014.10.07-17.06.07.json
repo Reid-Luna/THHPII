@@ -1,0 +1,13 @@
+{
+  "description": "Subject 1 and Subject 5",
+  "duration": "00:01:50",
+  "videoId": null,
+  "date": "2014-10-07T17:06:07.000Z",
+  "folderName": "2014/10/07",
+  "fileName": "17.06.07.json",
+  "subjectFileName": "2014.10.07-17.06.07.json",
+  "subjects": [
+    "1",
+    "5"
+  ]
+}
