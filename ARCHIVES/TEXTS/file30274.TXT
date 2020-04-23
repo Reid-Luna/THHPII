@@ -1,0 +1,8 @@
+{
+  "File": "30274 0535 03-25-15 4:08p ",
+  "Subject": "Lab Results",
+  "From": "xxxxxxxxxxxx",
+  "Date": "10/21/2014 1:05 PM",
+  "To": "xxxxxxxxxxxx",
+  "Message": "Anne, The lab results are back in and I'm happy to inform you that thesamples you brought to the office last week have been confirmed Lynksfree.  I hope this news finds you well and that you can finally feelresolved.  Lynks has become a big issue in our community and its goingto be up to people like you to help stop it from becoming a bigger one.,That said, this is the fourth set of samples you've brought to ourattention and I'm concerned that you are taking these matters perhapstoo seriously.  Remember that we have other patients to whom we have toshow the same amount of care and attention as we have to you and yourfamily.  Try and take these lab results to heart.  If you continue onbringing me and my staff these samples, I may have to ask you findanother physician.Sincerely, xxxxxxxxxxxx M.D."
+}

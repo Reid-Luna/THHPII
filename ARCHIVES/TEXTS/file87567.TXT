@@ -1,0 +1,8 @@
+{
+  "File": "87567 0535 03-25-15 4:08p",
+  "Subject": "guest list",
+  "From": "xxxxxxxxxxxx",
+  "Date": "5/6/2015 10:30 AM",
+  "To": "xxxxxxxxxxxx",
+  "Message": "Dad, Anne is asking me for a guest list.  I don't know anyone at the newschool yet and no one will talk to me.  I feel weerd handing outinvitations cause no one wants to go to a party fro a kid they don'tknow.  Can we invite my friends from the old neighborhhod instead?"
+}

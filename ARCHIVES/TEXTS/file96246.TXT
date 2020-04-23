@@ -1,0 +1,8 @@
+{
+  "File": "96246 0535 03-25-15 4:08p",
+  "Subject": "schol project",
+  "From": "xxxxxxxxxxxx",
+  "Date": "10/10/2015 3:32 PM",
+  "To": "xxxxxxxxxxxx",
+  "Message": "Hi Tom Is it ok if I use some extra data from the family plan thismonth?  We have a big project in my AP economics class that I need towork on with some other people in the class.  We are proably going tohave to do group video calls a lot.  Also didn't you say you know someeconomics news?  Like I think that we have to talk about China's economyand how it relates to the USA.  I don't know, but I'll need the extradata"
+}
