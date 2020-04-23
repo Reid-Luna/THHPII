@@ -1,0 +1,12 @@
+{
+  "description": "Subject 1 orders pizza",
+  "duration": "00:00:10",
+  "videoId": null,
+  "date": "2015-10-02T02:45:10.000Z",
+  "folderName": "2015/10/02",
+  "fileName": "02.45.10.json",
+  "subjectFileName": "2015.10.02-02.45.10.json",
+  "subjects": [
+    "1"
+  ]
+}
