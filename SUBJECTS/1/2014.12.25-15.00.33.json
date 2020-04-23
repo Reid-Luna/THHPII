@@ -1,0 +1,15 @@
+{
+  "description": "Subject 6 talks to Subjects 1 & 2",
+  "duration": "00:01:35",
+  "videoId": [
+    "[07264]"
+  ],
+  "date": "2014-12-25T15:00:33.000Z",
+  "folderName": "2014/12/25",
+  "fileName": "15.00.33.json",
+  "subjectFileName": "2014.12.25-15.00.33.json",
+  "subjects": [
+    "6",
+    "1"
+  ]
+}
